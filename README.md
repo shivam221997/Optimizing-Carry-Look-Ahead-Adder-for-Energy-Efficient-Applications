@@ -1,6 +1,8 @@
 # Optimizing-Carry-Look-Ahead-Adder-for-Energy-Efficient-Applications
 ## Project Overview
 This project focuses on the design and implementation of an optimized Carry Look Ahead Adder (CLA) using MTCMOS technology to reduce power consumption. The primary objective of this project is to enhance the power efficiency of digital systems by implementing a CLA optimized with MTCMOS technology. The CLA is a critical component in digital systems, particularly in the Arithmetic Logic Unit (ALU), where it significantly impacts the overall system performance and power consumption.
+      ![l2](https://github.com/shivam221997/Optimizing-Carry-Look-Ahead-Adder-for-Energy-Efficient-Applications/assets/156662255/09fe6ec0-4b41-41a7-ad4f-1ed386ecd651)
+
 
 ## Introduction
 The project addresses the need for low-power design techniques in VLSI chip designs, especially with the increasing demand for portable electronic devices. By integrating MTCMOS technology, the project aims to minimize the sub-threshold leakage current, thereby reducing the overall power consumption without compromising the operational speed of the CLA.
