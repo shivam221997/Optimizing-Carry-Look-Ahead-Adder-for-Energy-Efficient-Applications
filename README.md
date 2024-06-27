@@ -60,9 +60,12 @@ Comparative analysis shows reduced static power in the optimized CLA.
 
 ## References
 Ch. Daya Sagar, T. Krishna Moorti, “Design of low power flip-flop using MTCMOS Techniques,” International Journal of Computer Application and Information Technology, Vol.1, No.1, July 2012.
+
 Hematha S, Dhawan A, and Kar H, “Multithreshold CMOS Design for low power digital circuits,” TENCON 2008-2008 IEEE Region 10 Conference, pp.1-5, 2008.
 K. Roy, S. Mukhopadhyay, and H. Mahmoodi-Meimand, “Leakage current mechanisms and leakage reduction techniques in deepsubmicrometer CMOS circuits,” Proc. IEEE, vol.91, no. 2, pp. 305-327, Feb. 2003.
+
 Pawar Chander, Pokala Santhosh, Prasad Kurhe, “VLSI DESIGN OF FULL SUBTRACTOR USING MULTI-THRESHOLD CMOS TO REDUCE LEAKAGE CURRENT AND GROUND BOUNCE NOISE,” ISSN, Volume-2, Issue-2, 2015.
+
 ## Co- Authors
 Nikhil Devkar 
 
